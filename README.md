@@ -1,2 +1,2 @@
-# Lego-Mind-Storm-
+# Lego-Mind-Storm-Inventor
 Lego
