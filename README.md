@@ -16,7 +16,25 @@ Robotic Arm: Lego Mindstorm Inventor Kit
 
 
 Yolov5-small Custom TRained for People Detection.
+
 This Model detects the people baded on the depth information from OAK-D-Lite and Robotic Arm stops working in order to have a safer zone and again here main aim is to use OAK-D-LIte camera to simulate the real-time MAnufacturing Environment with using Sensors or other Expensive Lidars 
 
 ![train_batch0](https://user-images.githubusercontent.com/77121467/161969089-c69e5df2-2695-4e66-9712-7720b6fd5242.jpg)
 
+Annotation and Dataset Collection:
+
+Dataset collected for BAll-dection is purely by taking photos around 200 Photos and ball Dataset has been Augumented based on Roboflow and Annotated.
+
+Dataset Collected for People-Detection is sourced from Kaggle:  https://www.kaggle.com/datasets/constantinwerner/human-detection-dataset and its Annotated and Augumented based on Roboflow
+
+Training and Testing Model :
+
+Using Google Colab Tesla -GPU Instances.
+
+Deployment :
+
+Trained weights converted to IR-OpenVino Format and then optimized to Onnx and then Converted to Intel Myrid Blob to run on the OAK-D-Lite device.
+
+Integration :
+
+Integration of the Lego Mindstorm and the Oak-D-LIte has been done using the MicroPython.
