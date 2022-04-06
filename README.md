@@ -1,2 +1,2 @@
 # Lego-Mind-Storm-Inventor
-Lego
+Lego code
