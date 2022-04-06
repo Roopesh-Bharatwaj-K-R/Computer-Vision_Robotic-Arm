@@ -1,0 +1,5 @@
+names:
+- Person
+nc: 1
+train: People-Detection-1/train/images
+val: People-Detection-1/valid/images

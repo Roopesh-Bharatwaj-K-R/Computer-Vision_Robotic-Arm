@@ -1,0 +1,9 @@
+names:
+- Cube
+- Golf
+- Rugby
+- Tabel Tennis
+- Tennis
+nc: 5
+train: Ball-Detection-2/train/images
+val: Ball-Detection-2/valid/images
