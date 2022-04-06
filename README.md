@@ -5,8 +5,10 @@ Yolov5 samll, Custom Trained for detecting BAlls (Tennis, Golf, Tabel Tennis, Ru
 These are all the small and delicate items to be handeled by the Robotic arm Custom Built using Lego Mindstorm Inventor Kit, to Pick and  Place the objects from one place to another by means of the depth and center points information of the objects detected. this is mainly to replicate the Manufacturing Environment without using Expensive 2D-3D lIDAR and other Sensors.
 
 Camera: OAK-D-Lite
+
 Operating System: Raspberry PI -4 Debian OS
-! Robotic Arm: Lego Mindstorm Inventor Kit
+
+Robotic Arm: Lego Mindstorm Inventor Kit
 
 
 ![val_batch0_pred](https://user-images.githubusercontent.com/77121467/161968990-f58149dc-6eb7-45d9-8862-3a79626d1f37.jpg)
