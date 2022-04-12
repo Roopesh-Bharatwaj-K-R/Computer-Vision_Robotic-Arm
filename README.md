@@ -1,4 +1,4 @@
-Custom Object Detection- YOLO V5
+**Custom Object Detection- YOLO V5**
 
 Yolov5 samll, Custom Trained for detecting BAlls (Tennis, Golf, Tabel Tennis, Rugy, Cube) 
 
