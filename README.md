@@ -1,8 +1,8 @@
 **Custom Object Detection- YOLO V5**
 
-Yolov5 samll, Custom Trained for detecting BAlls (Tennis, Golf, Tabel Tennis, Rugy, Cube) 
+Yolov5 small, Custom Trained for detecting BAlls (Tennis, Golf, Tabel Tennis, Rugy, Cube) 
 
-These are all the small and delicate items to be handeled by the Robotic arm Custom Built using Lego Mindstorm Inventor Kit, to Pick and  Place the objects from one place to another by means of the depth and center points information of the objects detected. this is mainly to replicate the Manufacturing Environment without using Expensive 2D-3D lIDAR and other Sensors.
+These are all the small and delicate items to be handeled by the Robotic arm Custom Built using Lego Mindstorm Inventor Kit, to Pick and Place the objects from one place to another by means of the depth and center points information of the objects detected. this is mainly to replicate the Manufacturing Environment without using Expensive 2D-3D lIDAR and other Sensors.
 
 Camera: OAK-D-Lite
 
@@ -38,3 +38,7 @@ Trained weights converted to IR-OpenVino Format and then optimized to Onnx and t
 Integration :
 
 Integration of the Lego Mindstorm and the Oak-D-LIte has been done using the MicroPython.
+
+Demo:
+
+![Prototype](https://drive.google.com/file/d/1tpVU2COFiBm1LgaivJleqJ1Ldfu3xbHD/view?usp=sharing)
