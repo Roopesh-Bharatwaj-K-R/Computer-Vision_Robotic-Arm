@@ -41,7 +41,7 @@ Integration of the Lego Mindstorm and the Oak-D-LIte has been done using the Mic
 
 Demo:
 
-![Prototype](https://drive.google.com/file/d/1tpVU2COFiBm1LgaivJleqJ1Ldfu3xbHD/view?usp=sharing)
+(https://drive.google.com/file/d/1tpVU2COFiBm1LgaivJleqJ1Ldfu3xbHD/view?usp=sharing)
 
 ![VideoCapture_20220405-063404](https://user-images.githubusercontent.com/50909488/163025893-a34435a6-c7b2-4576-b411-a5d9e7971f66.jpg)
 
